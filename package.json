@@ -1,0 +1,30 @@
+{
+  "name": "react-mailchimp-addusers",
+  "version": "1.0.0",
+  "description": "How to Integrate MailChimp with your NodeJS app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramithbenedict/react-mailchimp-addusers.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "list",
+    "newsletter"
+  ],
+  "author": "ramith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramithbenedict/react-mailchimp-addusers/issues"
+  },
+  "homepage": "https://github.com/ramithbenedict/react-mailchimp-addusers#readme"
+}
